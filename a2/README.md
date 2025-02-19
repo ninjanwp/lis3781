@@ -22,6 +22,8 @@
 
 ![lis3781_a2_solutions.sql results](./img/A2_Results.png)
 
+![lis3781_a2_solutions.sql results](./img/users.png)
+
 *Screenshot of user queries*:
 
 | User1 - Fail | User2 - Fail |

@@ -56,9 +56,9 @@ INSERT INTO customer (cmp_id, cus_ssn, cus_salt, cus_type, cus_first, cus_last, 
 -- Step 4: Create Users & Grant Privileges
 CREATE USER 'user1'@'localhost' IDENTIFIED BY 'password1';
 CREATE USER 'user2'@'localhost' IDENTIFIED BY 'password2';
-GRANT SELECT, UPDATE, DELETE ON yourfsuid.company TO 'user1'@'localhost';
-GRANT SELECT, UPDATE, DELETE ON yourfsuid.customer TO 'user1'@'localhost';
-GRANT SELECT, INSERT ON yourfsuid.customer TO 'user2'@'localhost';
+GRANT SELECT, UPDATE, DELETE ON np22i.company TO 'user1'@'localhost';
+GRANT SELECT, UPDATE, DELETE ON np22i.customer TO 'user1'@'localhost';
+GRANT SELECT, INSERT ON np22i.customer TO 'user2'@'localhost';
 FLUSH PRIVILEGES;
 
 -- Step 5: Verify Permissions
@@ -76,6 +76,6 @@ DELETE FROM customer WHERE cus_id = 1;
 -- Step 7: Cleanup (Admin Only)
 DROP TABLE IF EXISTS customer;
 DROP TABLE IF EXISTS company;
-DROP DATABASE IF EXISTS yourfsuid;
+DROP DATABASE IF EXISTS np22i;
 
 -- End of Script
