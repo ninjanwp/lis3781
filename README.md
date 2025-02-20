@@ -22,3 +22,9 @@ _Course Work Links:_
     - Forward-engineer to both local and remote MySql servers
     - Create local users and define permissions
     - Link lis3781_a2_solutions.sql with populated fields (5-per-table)
+
+2. [A3 README.md](a3/README.md "My A3 README.md file")
+
+    - Write and execute lis3781_a3_solutions.sql and required reports
+    - Forward-engineer to Oracle server
+    - Link lis3781_a3_solutions.sql

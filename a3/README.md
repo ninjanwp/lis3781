@@ -4,15 +4,15 @@
 
 ### A3 Requirements:
 
-* Write and execute lis3781_a3_solutions.sql
+* Write and execute lis3781_a3_solutions.sql and required reports
 * Forward-engineer to Oracle server
-* Link lis3781_a2_solutions.sql with populated fields (5-per-table)
+* Link lis3781_a3_solutions.sql
 
 #### README.md file should include the following items:
 
 * Screenshot of lis3781_a3_solutions.sql
 * Screenshot of report #20 sql solution
-* Linked lis3782_a1_solutions.sql with populated fields and create statements
+* Linked lis3782_a3_solutions.sql with create statements
 
 #### Assignment Screenshots:
 
