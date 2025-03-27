@@ -34,3 +34,9 @@ _Course Work Links:_
    - Create stored procedure, trigger, or view
    - Include screenshots of ERD, tables, populated data, and report
    - Link to lis3781_p1_solutions.sql file
+
+5. [A4 README.md](a4/README.md "My A4 README.md file")
+
+   - Write and execute lis3781_a4_solutions.sql
+   - Establish connection to MSSQL server
+   - Link lis3781_a4_solutions.sql
