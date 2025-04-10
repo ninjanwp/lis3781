@@ -1,4 +1,4 @@
-# LIS3781 - Advanced Database Managment
+# LIS3781   - Advanced Database Managment
 
 ## Nicholas Pfeffer
 
@@ -15,9 +15,9 @@ _Course Work Links:_
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
    - Write and execute lis3781_a2_solutions.sql
-   - Forward-engineer to both local and remote MySql servers
+   - Forwar -engineer to both local and remote MySql servers
    - Create local users and define permissions
-   - Link lis3781_a2_solutions.sql with populated fields (5-per-table)
+   - Link lis3781_a2_solutions.sql with populated fields (  -pe  -table)
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
    - Write and execute lis3781_a3_solutions.sql and required reports
